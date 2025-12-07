@@ -1,0 +1,100 @@
+2025-10-09 15:00:50,873 [INFO] ServerMonitor: Server monitoring started
+2025-10-09 15:00:50,874 [INFO] ATMLogger: Server monitoring started with 60s interval
+2025-10-09 15:00:50,874 [INFO] ATMLogger: ATM Server running on 0.0.0.0:65432
+2025-10-09 15:00:50,976 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 0m 0s | CPU: 0.6% | Memory: 34.2MB | Threads: 2 | Active Connections: 0 | Max Connections: 0 | Total Connections: 0
+2025-10-09 15:00:55,598 [INFO] ATMLogger: New connection from ('127.0.0.1', 63361)
+2025-10-09 15:01:50,633 [INFO] ATMLogger: Connection closed for 9321218074 (('127.0.0.1', 63361))
+2025-10-09 15:01:51,086 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 1m 0s | CPU: 0.1% | Memory: 34.6MB | Threads: 2 | Active Connections: 0 | Max Connections: 1 | Total Connections: 1
+2025-10-09 15:01:56,824 [INFO] ATMLogger: New connection from ('127.0.0.1', 63377)
+2025-10-09 15:02:19,362 [INFO] ATMLogger: New connection from ('127.0.0.1', 63383)
+2025-10-09 15:02:51,197 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 2m 0s | CPU: 0.1% | Memory: 34.8MB | Threads: 4 | Active Connections: 2 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:03:12,573 [INFO] ATMLogger: Connection closed for 987654321 (('127.0.0.1', 63377))
+2025-10-09 15:03:16,369 [INFO] ATMLogger: Connection closed for 098765432 (('127.0.0.1', 63383))
+2025-10-09 15:03:51,305 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 3m 0s | CPU: 0.1% | Memory: 28.1MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:04:51,414 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 4m 0s | CPU: 0.1% | Memory: 28.1MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:05:51,525 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 5m 0s | CPU: 0.1% | Memory: 28.1MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:06:51,636 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 6m 0s | CPU: 0.1% | Memory: 28.1MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:07:51,743 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 7m 0s | CPU: 0.1% | Memory: 28.1MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:08:51,854 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 8m 0s | CPU: 0.1% | Memory: 28.1MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:09:51,961 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 9m 0s | CPU: 0.2% | Memory: 18.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:10:52,069 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 10m 1s | CPU: 0.1% | Memory: 20.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:11:52,179 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 11m 1s | CPU: 0.0% | Memory: 20.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:12:52,290 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 12m 1s | CPU: 0.1% | Memory: 20.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:13:52,399 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 13m 1s | CPU: 0.1% | Memory: 20.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:14:52,502 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 14m 1s | CPU: 0.1% | Memory: 20.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:15:52,612 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 15m 1s | CPU: 0.1% | Memory: 20.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:16:52,723 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 16m 1s | CPU: 0.2% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:17:52,829 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 17m 1s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:18:52,938 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 18m 1s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:19:53,049 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 19m 2s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:20:53,160 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 20m 2s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:21:53,267 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 21m 2s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:22:53,376 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 22m 2s | CPU: 0.0% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:23:53,489 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 23m 2s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:24:53,598 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 24m 2s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:25:53,712 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 25m 2s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:26:53,825 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 26m 2s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:27:53,938 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 27m 2s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:28:54,051 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 28m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:29:54,154 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 29m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:30:54,262 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 30m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:31:54,371 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 31m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:32:54,482 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 32m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:33:54,592 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 33m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:34:54,704 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 34m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:35:54,813 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 35m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:36:54,923 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 36m 3s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:37:55,035 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 37m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:38:55,147 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 38m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:39:55,259 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 39m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:40:55,367 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 40m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:41:55,478 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 41m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:42:55,590 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 42m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:43:55,704 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 43m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:44:55,812 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 44m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:45:55,918 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 45m 4s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:46:56,025 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 46m 5s | CPU: 0.1% | Memory: 19.9MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:47:56,138 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 47m 5s | CPU: 0.2% | Memory: 18.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:48:56,246 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 48m 5s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:49:56,356 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 49m 5s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:50:56,467 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 50m 5s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:51:56,571 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 51m 5s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:52:56,682 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 52m 5s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:53:56,793 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 53m 5s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:54:56,904 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 54m 5s | CPU: 0.2% | Memory: 18.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:55:57,012 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 55m 6s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:56:57,122 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 56m 6s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:57:57,233 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 57m 6s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:58:57,346 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 58m 6s | CPU: 0.2% | Memory: 18.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 15:59:57,456 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 59m 6s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 16:00:57,564 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 1h 0m 6s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 16:01:57,678 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 1h 1m 6s | CPU: 0.1% | Memory: 18.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 16:02:57,789 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 1h 2m 6s | CPU: 0.2% | Memory: 18.0MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-10-09 16:03:57,897 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 1h 3m 6s | CPU: 0.1% | Memory: 19.8MB | Threads: 2 | Active Connections: 0 | Max Connections: 2 | Total Connections: 3
+2025-11-04 11:35:02,353 [INFO] ServerMonitor: Server monitoring started
+2025-11-04 11:35:02,354 [INFO] ATMLogger: Server monitoring started with 60s interval
+2025-11-04 11:35:02,354 [INFO] ATMLogger: ATM Server running on 0.0.0.0:65432
+2025-11-04 11:35:02,458 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 0m 0s | CPU: 1.4% | Memory: 35.3MB | Threads: 2 | Active Connections: 0 | Max Connections: 0 | Total Connections: 0
+2025-11-04 11:35:09,735 [INFO] ATMLogger: New connection from ('127.0.0.1', 55718)
+2025-11-04 11:36:02,562 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 1m 0s | CPU: 0.2% | Memory: 19.3MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 1
+2025-11-04 11:37:02,675 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 2m 0s | CPU: 0.1% | Memory: 20.9MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 1
+2025-11-04 11:38:02,787 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 3m 0s | CPU: 0.1% | Memory: 20.9MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 1
+2025-11-04 11:39:02,899 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 4m 0s | CPU: 0.1% | Memory: 20.9MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 1
+2025-11-04 11:40:03,018 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 5m 0s | CPU: 0.1% | Memory: 20.9MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 1
+2025-11-04 11:41:03,134 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 6m 0s | CPU: 0.1% | Memory: 26.4MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 1
+2025-11-04 11:42:03,246 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 7m 0s | CPU: 0.1% | Memory: 26.6MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 1
+2025-11-04 11:42:30,246 [INFO] ATMLogger: Connection closed for 234567890 (('127.0.0.1', 55718))
+2025-11-04 11:43:03,355 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 8m 0s | CPU: 0.1% | Memory: 26.7MB | Threads: 2 | Active Connections: 0 | Max Connections: 1 | Total Connections: 1
+2025-11-04 11:44:03,466 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 9m 1s | CPU: 0.1% | Memory: 26.7MB | Threads: 2 | Active Connections: 0 | Max Connections: 1 | Total Connections: 1
+2025-12-05 11:02:09,627 [INFO] ServerMonitor: Server monitoring started
+2025-12-05 11:02:09,631 [INFO] ATMLogger: Server monitoring started with 60s interval
+2025-12-05 11:02:09,632 [INFO] ATMLogger: ATM Server running on 0.0.0.0:65432
+2025-12-05 11:02:09,732 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 0m 0s | CPU: 4.2% | Memory: 41.3MB | Threads: 2 | Active Connections: 0 | Max Connections: 0 | Total Connections: 0
+2025-12-05 11:02:24,082 [INFO] ATMLogger: New connection from ('127.0.0.1', 54270)
+2025-12-05 11:03:09,837 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 1m 0s | CPU: 0.1% | Memory: 41.5MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 1
+2025-12-05 11:03:36,484 [INFO] ATMLogger: Connection closed for 9987359882 (('127.0.0.1', 54270))
+2025-12-05 11:03:38,887 [INFO] ATMLogger: New connection from ('127.0.0.1', 54296)
+2025-12-05 11:04:09,944 [INFO] ServerMonitor: SERVER METRICS | Uptime: 0d 0h 2m 0s | CPU: 0.1% | Memory: 41.8MB | Threads: 3 | Active Connections: 1 | Max Connections: 1 | Total Connections: 2
+2025-12-05 11:05:09,197 [INFO] ATMLogger: Server stopped manually.
+2025-12-05 11:05:09,197 [ERROR] ATMLogger: Error with client ('127.0.0.1', 54296): [Errno 32] Broken pipe
+2025-12-05 11:05:09,948 [INFO] ServerMonitor: Server monitoring stopped

@@ -1,0 +1,9 @@
+# Core dependencies
+psutil>=5.9.0
+configparser>=5.0.0
+
+# Database dependencies
+mysql-connector-python>=8.0.0
+
+# Optional dependencies
+pytest>=7.0.0  # For running tests
